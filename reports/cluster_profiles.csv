@@ -1,0 +1,6 @@
+,Fresh,Fresh,Fresh,Milk,Milk,Milk,Grocery,Grocery,Grocery,Frozen,Frozen,Frozen,Detergents_Paper,Detergents_Paper,Detergents_Paper,Delicassen,Delicassen,Delicassen
+,count,mean,median,count,mean,median,count,mean,median,count,mean,median,count,mean,median,count,mean,median
+Cluster,,,,,,,,,,,,,,,,,,
+1,45,10440.93,5283.0,45,19386.42,14881.0,45,28656.09,23998.0,45,2190.24,1274.0,45,13327.8,12034.0,45,2374.2,1423.0
+2,393,12062.91,8797.0,393,4115.1,3199.0,393,5534.97,3833.0,393,2940.68,1541.0,393,1696.17,627.0,393,1299.11,911.0
+3,2,34782.0,34782.0,2,30367.0,30367.0,2,16898.0,16898.0,2,48701.5,48701.5,2,755.5,755.5,2,26776.0,26776.0
